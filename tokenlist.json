@@ -1,10 +1,11 @@
 {
-    "address": "TW63guytLiXrGU9KrVgduoHRXaubaUkn3T",
-    "symbol": "Huobi 2nd Space",
-    "name": "Huobi 2nd Space Club",
-    "decimals": 6,
-    "logoURI": "https://hbg-prod-fed-public.hbfile.net/nuwa/static/prod/56020150-434a-46af-9eaa-fe1ed404c12b.gif",
-    "homepage": "https://www.huobi.com/",
+   "address": "TFzdHHA2Fmx3s26fHvzJWjeTHeVULgrE6A",
+  "symbol": "USDTZ",
+  "name": "USDTZ",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/frataltan/trc20/main/logo.png",
+  "homepage": "https://yourprojectsite.com",
+  "MarketCapLink": "",
     "existingMarkets": [
         {
             "source": "ApeNFT",
